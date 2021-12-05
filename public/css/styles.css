@@ -19,6 +19,10 @@ ul {
 	text-decoration: none;
 	color: #222;
 }
+article {
+	margin: 5px 0 0 0;
+	padding: 5px 0 0 0;
+}
 /* nav & footer styles */
 nav {
 	display: flex;
@@ -45,6 +49,7 @@ nav a {
 	color: #777;
 	font-weight: 300;
 }
+
 footer {
 	color: #777;
 	text-align: center;
@@ -55,8 +60,12 @@ h2 {
 }
 h3 {
 	text-transform: capitalize;
-	margin-bottom: 8px;
 }
+
+#top-header {
+	color: navy;
+}
+
 .content {
 	margin-left: 20px;
 }
