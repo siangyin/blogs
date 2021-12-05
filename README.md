@@ -7,6 +7,6 @@ Code for Node tutorial.
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
 
 
-## Gitgub Repo
+## Github Repo
 https://github.com/iamshaunjp/node-crash-course/tree/master
 
